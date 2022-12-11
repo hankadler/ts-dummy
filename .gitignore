@@ -4,8 +4,8 @@
 # include
 !src
 !src/**
-!tests
-!tests/**
+!test
+!test/**
 !.gitignore
 !.eslintrc.json
 !package.json
