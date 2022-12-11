@@ -1,3 +1,3 @@
-# hankadler
+# ts-dummy
 
-A dummy project to practice git collaboration features.
+A dummy TypeScript project.
