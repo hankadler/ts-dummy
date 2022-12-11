@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "target": "ESNext"
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "env": {
+    "es6": true,
+    "node": true,
+    "mocha": true,
+    "mongo": true
+  },
+  "extends": [
+    "airbnb-base"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules":{
+    "no-console": "off",
+    "comma-dangle": "off",
+    "no-underscore-dangle": "off",
+    "quotes": ["error", "double"],
+    "func-names": "off",
+    "function-paren-newline": "off",
+    "object-curly-newline": "off",
+    "no-nested-ternary": "off",
+    "import/prefer-default-export": "off",
+    "import/extensions": "off",
+    "import/no-unresolved":"off",
+    "no-undef": "off"
+  }
+}
