@@ -1,5 +1,10 @@
 import { fileURLToPath } from "url";
 
+/**
+ * Logs a greeting to the console.
+ *
+ * @param {string?} name - Your name.
+ */
 export default function greet(name = "") {
   console.log(`Hello ${name || "there"}!`);
 }
